@@ -18,11 +18,18 @@ For example, an input of [1, 2, 3, 4, 5] should return [120, 60, 40, 30, 24].
 You cannot use division in this problem.
 - Given a linked list and two integers M and N.
   Traverse the linked list such that you retain M nodes then delete next N nodes, continue the same till the end of the linked list.
-For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should return Linked List: 1->2->5->6
+For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should return Linked List: 1->2->5->6.
 
 - Given an array consisting many inner arrays, flatten the array into one:
   example: input: [[6,4,7,[9,5,4,[2,4,8]]],[2,2,7],[9,0,7,[9,3,1,8,5]]]
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
+- WAP to check whether tree is symmetric or not.
+
+- Convert a given Binary Tree to Doubly Linked List.
+
+- Add two numbers represented by linked list.
+
+-  rotate square matrix by 90 degrees
 </br>
 
 ----
